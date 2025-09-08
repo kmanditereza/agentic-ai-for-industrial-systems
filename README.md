@@ -1,18 +1,17 @@
-# 🏭 Building Agentic AI for Industrial Systems - Complete Course
+# 🏭 Building Agentic AI for Industrial Systems
 
 A comprehensive course teaching you how to build production-ready AI agents for industrial automation, from basic implementations to advanced multi-agent architectures.
 
-## 📺 Complete Video Course
+## 📺 Complete Project
 
 🎥 **[Watch the Full Course: Building Agentic AI for Industrial Systems](https://youtu.be/2W6rmlkL9vI)**
 
 **Instructor**: Kudzai Manditereza  
-**Duration**: Comprehensive 5-part series  
 **Level**: Beginner to Advanced
 
-## 🎯 Course Overview
+## 🎯 Overview
 
-Learn step-by-step how to build fully functional agentic AI for industrial systems, from the basics to advanced multi-agent architectures. This course takes you through a complete journey of industrial AI development using a simulated batch plant environment.
+Learn step-by-step how to build fully functional agentic AI for industrial systems, from the basics to advanced multi-agent architectures. This project takes you through a complete journey of industrial AI development using a simulated batch plant environment.
 
 ### What You'll Build
 
@@ -33,7 +32,7 @@ A simulated batch plant with:
 - OPC UA server exposing real-time data
 - TimescaleDB storing recipes
 
-## 📚 Course Structure
+## 📚 Project Structure
 
 ### Part 1: Industrial AI Agent from Scratch
 **Folder**: `Batch Plant Agent/`
