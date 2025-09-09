@@ -1,0 +1,13 @@
+asyncua>=1.0.0
+psycopg2
+langchain-openai
+langchain-anthropic
+python-dotenv
+pydantic
+langchain-community 
+langchain-chroma
+langchain-ollama
+chromadb>=0.4.0
+langchain>=0.1.0
+tiktoken  # For OpenAI embeddings (optional)
+sentence-transformers  # Alternative embedding option

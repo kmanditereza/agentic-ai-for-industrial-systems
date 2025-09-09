@@ -1,0 +1,10 @@
+[project]
+name = "opc-ua-mcp"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "asyncua>=1.0.0",
+    "mcp>=1.13.0",
+]

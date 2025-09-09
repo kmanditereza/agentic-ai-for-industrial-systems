@@ -1,0 +1,7 @@
+asyncua>=1.0.0
+psycopg2
+langchain-openai
+langchain-anthropic
+python-dotenv
+pydantic
+langchain-community 
